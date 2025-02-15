@@ -3,7 +3,7 @@ número de estudiante: 801-24-4953
 username: ari-pao
 Asignación 2: Suma de dos fracciones
 Colaboraciones:
-n/a
+n/a 
 */
 
 //cabecera
